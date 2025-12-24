@@ -1,0 +1,17 @@
+[ksnow]
+Description=Display KSnow above all windows
+desktops=\\0
+desktopsrule=2
+fullscreen=true
+fullscreenrule=2
+layer=overlay
+layerrule=2
+skippager=true
+skippagerrule=2
+skipswitcher=true
+skipswitcherrule=2
+skiptaskbar=true
+skiptaskbarrule=2
+title=KSnow
+titlematch=1
+wmclass=KSnow

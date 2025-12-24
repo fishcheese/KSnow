@@ -1,0 +1,29 @@
+{
+  "display_type": "circle",
+  "symbols":[""],
+  "count": 80,
+
+  "min_size": 5,
+  "max_size": 15,
+
+  "min_speed": 1.0,
+  "max_speed": 4.0,
+
+  "colors": [
+    [255, 255, 255, 220],
+    [200, 220, 255, 200],
+    [220, 240, 255, 180]
+  ],
+
+  "wind_strength": 0.8,
+  "wind_frequency": 50,
+
+  "wobble_amplitude": 0.5,
+  "wobble_frequency": 100,
+
+  "rotation_enabled": true,
+  "min_rot_speed": -1.0,
+  "max_rot_speed": 1.0,
+
+  "background_color": [0, 0, 0, 0]
+}

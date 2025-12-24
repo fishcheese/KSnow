@@ -1,0 +1,22 @@
+{
+  "display_type": "symbol",
+  "symbols": ["❄"],
+  "count": 90,
+  "min_size": 20,
+  "max_size": 30,
+  "min_speed": 0.5,
+  "max_speed": 2,
+  "colors": [
+    [255, 255, 255, 150],
+    [255, 255, 255, 100],
+    [255, 255, 255, 50]
+  ],
+  "wind_strength": 1,
+  "wind_frequency": 50,
+  "wobble_amplitude": 0.5,
+  "wobble_frequency": 100,
+  "rotation_enabled": true,
+  "min_rot_speed": -1.0,
+  "max_rot_speed": 1.0,
+  "background_color": [0, 0, 0, 0]
+}
